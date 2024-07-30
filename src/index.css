@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Neonderthaw&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+  -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+@layer base {
+  html{
+    font-family: 'Raleway', sans-serif;
+  }
+}
+
+.gradient-bg {
+  background-color:#212121;
+  background-image: 
+    radial-gradient(at 0% 0%, hsl(300, 0%, 40%,1) 0, transparent 50%), 
+    radial-gradient(at 50% 0%, hsl(224, 15%, 24%,1) 0, transparent 50%), 
+    radial-gradient(at 100% 0%, hsl(0, 0%, 39%,1) 0, transparent 50%);
+}
+
+.profile-card {
+  background-color:#ff99b8;
+  background-image:
+  radial-gradient(at 39% 96%, hsla(344,82%,69%,1) 0px, transparent 50%),
+  radial-gradient(at 98% 96%, hsla(2,62%,69%,1) 0px, transparent 50%),
+  radial-gradient(at 23% 10%, hsla(235,80%,68%,1) 0px, transparent 50%),
+  radial-gradient(at 94% 18%, hsla(239,89%,65%,1) 0px, transparent 50%),
+  radial-gradient(at 63% 78%, hsla(330,70%,65%,1) 0px, transparent 50%),
+  radial-gradient(at 81% 13%, hsla(245,71%,61%,1) 0px, transparent 50%),
+  radial-gradient(at 32% 72%, hsla(276,93%,69%,1) 0px, transparent 50%);
+}
