@@ -1,0 +1,97 @@
+{
+    "home": {
+      "welcome": "Bienvenue",
+      "description": "Ceci est une description.",
+      "title": "Accueil",
+      "avatarAlt": "Profil",
+      "name": "BENMOUSSA Mohammed",
+      "jobTitle": "Ingénieur Logiciel"
+    },
+    "about": {
+      "title": "À propos de moi",
+      "description1": "Je suis BENMOUSSA Mohammed, un ingénieur logiciel passionné par les nouvelles technologies. Avec une formation solide en ingénierie numérique et de nombreuses expériences professionnelles, je me consacre à la création de solutions innovantes et efficaces.",
+      "description2": "En dehors du travail, j'aime lire, coder pour le plaisir, et participer à des hackathons. Mon objectif est de continuer à apprendre et à évoluer dans le domaine de la technologie.",
+      "description3": "Je suis toujours ouvert à de nouvelles opportunités et collaborations. N'hésitez pas à me contacter pour discuter de projets ou d'idées."
+    },
+    "projects": {
+      "title": "Projets Réalisés",
+      "project1": {
+        "title": "Projet 1",
+        "description": "Description du projet 1",
+        "technologies": ["React", "Node.js", "MongoDB"]
+      },
+      "project2": {
+        "title": "Projet 2",
+        "description": "Description du projet 2",
+        "technologies": ["React", "Express", "MySQL"]
+      },
+      "viewProject": "Voir le projet"
+    },
+    "testimonials": {
+      "title": "Témoignages",
+      "testimonial1": {
+        "name": "Manager",
+        "feedback": "Mohammed est doté d'une solide compétence technique, sérieux, rigoureux. Son travail est supérieur aux attentes."
+      },
+      "testimonial2": {
+        "name": "Professeurs",
+        "feedback": "Lettres de recommandation disponibles sur demande."
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "searchPlaceholder": "Rechercher...",
+      "article1": {
+        "title": "L’Intelligence Artificielle en 2024 : Nouvelles Avancées",
+        "description": "Découvrez les dernières avancées en IA cette année.",
+        "content": "En 2024, l’intelligence artificielle a fait des progrès significatifs dans le domaine de la médecine, de l’automatisation industrielle et de la gestion de données. Les nouvelles technologies d’apprentissage automatique permettent des diagnostics plus précis et une meilleure optimisation des processus.",
+        "link": "Lire la suite"
+      }
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "emailPlaceholder": "Entrez votre adresse e-mail",
+      "messagePlaceholder": "Écrivez votre message",
+      "submitButton": "Envoyer",
+      "successMessage": "Message envoyé avec succès !"
+    },
+    "navbar": {
+      "home": "Accueil",
+      "about": "À propos",
+      "experience": "Expérience",
+      "projects": "Projets",
+      "testimonials": "Témoignages",
+      "blog": "Blog",
+      "contact": "Contact",
+      "language": {
+        "en": "EN",
+        "fr": "FR",
+        "ar": "AR"
+      }
+    },
+    "experience": {
+      "title": "Formations",
+      "formation1": {
+        "time": "2020 - 2022",
+        "degree": "Diplôme d’ingénieur Généraliste en numérique",
+        "school": "Télécom Saint-Étienne",
+        "description": "Programme de double Diplôme avec ENSIAS"
+      },
+      "formation2": {
+        "time": "2018 - 2020",
+        "degree": "Diplôme ingénieur d'état en Ingénierie web",
+        "school": "École Nationale Supérieure d'Informatique et d'Analyse des Systèmes",
+        "description": "Programme de double Diplôme avec ENSIAS"
+      },
+      "formation3": {
+        "time": "2016 - 2018",
+        "degree": "Classe préparatoire aux grandes écoles",
+        "description": "Option: Mathématiques-Physique (MP)"
+      },
+      "formation4": {
+        "time": "2015 - 2016",
+        "degree": "Baccalauréat en sciences mathématiques-A"
+      }
+    }
+  }
+  

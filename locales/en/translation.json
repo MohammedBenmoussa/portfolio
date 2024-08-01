@@ -1,0 +1,97 @@
+{
+    "home": {
+      "welcome": "Welcome",
+      "description": "This is a description.",
+      "title": "Home",
+      "avatarAlt": "Profile",
+      "name": "BENMOUSSA Mohammed",
+      "jobTitle": "Software Engineer"
+    },
+    "about": {
+      "title": "About Me",
+      "description1": "I am BENMOUSSA Mohammed, a software engineer passionate about new technologies. With a solid background in digital engineering and numerous professional experiences, I am dedicated to creating innovative and efficient solutions.",
+      "description2": "Outside of work, I love reading, coding for fun, and participating in hackathons. My goal is to continue learning and evolving in the technology field.",
+      "description3": "I am always open to new opportunities and collaborations. Feel free to contact me to discuss projects or ideas."
+    },
+    "projects": {
+      "title": "Completed Projects",
+      "project1": {
+        "title": "Project 1",
+        "description": "Description of project 1",
+        "technologies": ["React", "Node.js", "MongoDB"]
+      },
+      "project2": {
+        "title": "Project 2",
+        "description": "Description of project 2",
+        "technologies": ["React", "Express", "MySQL"]
+      },
+      "viewProject": "View project"
+    },
+    "testimonials": {
+      "title": "Testimonials",
+      "testimonial1": {
+        "name": "Manager",
+        "feedback": "Mohammed has solid technical skills, is serious, and rigorous. His work exceeds expectations."
+      },
+      "testimonial2": {
+        "name": "Professors",
+        "feedback": "Recommendation letters available upon request."
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "searchPlaceholder": "Search...",
+      "article1": {
+        "title": "Artificial Intelligence in 2024: New Advances",
+        "description": "Discover the latest advances in AI this year.",
+        "content": "In 2024, artificial intelligence has made significant progress in the fields of medicine, industrial automation, and data management. New machine learning technologies enable more accurate diagnostics and better process optimization.",
+        "link": "Read more"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "emailPlaceholder": "Enter your email address",
+      "messagePlaceholder": "Write your message",
+      "submitButton": "Send",
+      "successMessage": "Message sent successfully!"
+    },
+    "navbar": {
+      "home": "Home",
+      "about": "About",
+      "experience": "Experience",
+      "projects": "Projects",
+      "testimonials": "Testimonials",
+      "blog": "Blog",
+      "contact": "Contact",
+      "language": {
+        "en": "EN",
+        "fr": "FR",
+        "ar": "AR"
+      }
+    },
+    "experience": {
+      "title": "Formations",
+      "formation1": {
+        "time": "2020 - 2022",
+        "degree": "Generalist Engineer in Digital",
+        "school": "Télécom Saint-Étienne",
+        "description": "Double degree program with ENSIAS"
+      },
+      "formation2": {
+        "time": "2018 - 2020",
+        "degree": "State Engineer in Web Engineering",
+        "school": "École Nationale Supérieure d'Informatique et d'Analyse des Systèmes",
+        "description": "Double degree program with ENSIAS"
+      },
+      "formation3": {
+        "time": "2016 - 2018",
+        "degree": "Preparatory Classes for Grandes Écoles",
+        "description": "Option: Mathematics-Physics (MP)"
+      },
+      "formation4": {
+        "time": "2015 - 2016",
+        "degree": "Baccalaureate in Mathematical Sciences-A"
+      }
+    }
+  }
+  
