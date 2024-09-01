@@ -8,10 +8,140 @@
     "jobTitle": "Software Engineer"
   },
   "about": {
-    "title": "About Me",
-    "description1": "I am BENMOUSSA Mohammed, a software engineer passionate about new technologies. With a solid background in digital engineering and numerous professional experiences, I am dedicated to creating innovative and efficient solutions.",
-    "description2": "Outside of work, I love reading, coding for fun, and participating in hackathons. My goal is to continue learning and evolving in the technology field.",
-    "description3": "I am always open to new opportunities and collaborations. Feel free to contact me to discuss projects or ideas."
+    "title": "Skills Portfolio of Mohammed Benmoussa",
+    "professionalProfile": {
+      "title": "Professional Profile",
+      "description": "Software engineer passionate about front-end development with React and back-end with Java (versions 8, 11, 17, 21), with strong experience in creating innovative digital solutions. Worked on complex projects from design to deployment, with expertise in modern technologies, agile development practices, and proven ability to solve high-level technical problems."
+    },
+    "technicalSkills": {
+      "title": "Technical Skills",
+      "frontEndDevelopment": {
+        "title": "Front-End Development:",
+        "skills": [
+          "Expertise in React (v18): Developing dynamic and responsive user interfaces.",
+          "Mastery of functional components, hooks, state management with Redux, and testing with React Testing Library.",
+          "Integration of REST APIs and web services with Axios and Fetch.",
+          "Use of TypeScript for static typing and improved code quality."
+        ]
+      },
+      "backEndDevelopment": {
+        "title": "Back-End Development:",
+        "skills": [
+          "Strong skills in Java (v8, 11, 17, 21): Developing robust and scalable applications.",
+          "Experience with Spring Boot for creating microservices, data management with Spring Data JPA, and security with Spring Security.",
+          "Familiarity with RESTful architectures and good object-oriented programming (OOP) practices.",
+          "Use of frameworks like Hibernate for managing relational databases."
+        ]
+      },
+      "developmentTools": {
+        "title": "Development Tools:",
+        "skills": [
+          "IntelliJ IDEA, Maven, Gradle, Git, Jenkins for continuous integration and deployment (CI/CD).",
+          "Use of Postman for REST API testing and Docker for application containerization."
+        ]
+      },
+      "databases": {
+        "title": "Databases:",
+        "skills": [
+          "Mastery of database management systems Oracle PL/SQL, MySQL, SQL Server.",
+          "Experience with NoSQL databases like MongoDB and Redis."
+        ]
+      },
+      "otherSkills": {
+        "title": "Other Skills:",
+        "skills": [
+          "Modeling: UML, Merise.",
+          "Mobile Development: Android.",
+          "Project Management and Agile Methodologies: Scrum, Trello.",
+          "Cloud Computing: AWS (EC2, S3, SQS)."
+        ]
+      }
+    },
+    "relevantProfessionalExperiences": {
+      "title": "Relevant Professional Experiences",
+      "experiences": [
+        {
+          "date": "December 2022 - Present",
+          "position": "Software Engineer - Sopra Steria, France",
+          "description": "Developed a front-end for a new platform with React (v18), improving user experience and functionalities. Created and maintained backend microservices in Java (v8 and 11) for property management. Supervised non-regression tests to ensure platform stability and reliability. Provided level 3 technical support to resolve complex issues."
+        },
+        {
+          "date": "July 2019 - August 2019",
+          "position": "Java/JEE Full Stack Developer (Internship) - Logima SARL, Oujda, Morocco",
+          "description": "Designed and developed an e-commerce platform with PayPal SDK integration using Java (v8). Backend development with Spring Boot, Spring Data, Spring Security. Used JSP for the front-end and version management with Git and Trello."
+        }
+      ]
+    },
+    "academicProjects": {
+      "title": "Academic Projects",
+      "projects": [
+        {
+          "date": "November - January 2020",
+          "title": "Digital Project Management Web Application",
+          "description": "Developed a project management web application using Spring (REST Controller, Data JPA) and Vue.js for the front-end."
+        },
+        {
+          "date": "March - May 2020",
+          "title": "E-News Web Application",
+          "description": "Developed an online news application with React for the front-end and Java (Spring, Hibernate) for the back-end."
+        },
+        {
+          "date": "February - April 2020",
+          "title": "Development Infrastructure",
+          "description": "Set up a development infrastructure using open-source solutions (LDAP, DNS, GitLab, OwnCloud). Used Java for task automation and scripting."
+        }
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "degrees": [
+        {
+          "date": "2020 - 2022",
+          "degree": "Generalist Engineering Degree in Digital Computing - Télécom Saint-Étienne, France",
+          "option": "Option: Big Data"
+        },
+        {
+          "date": "2018 - 2020",
+          "degree": "State Engineering Degree in Web Engineering - ENSIAS, Rabat, Morocco",
+          "option": "Option: Web Engineering and Mobile Computing"
+        },
+        {
+          "date": "2016 - 2018",
+          "degree": "Preparatory Class for Grandes Écoles - Pythagore, Oujda, Morocco",
+          "option": "Option: Mathematics-Physics (MP)"
+        }
+      ]
+    },
+    "certifications": {
+      "title": "Certifications",
+      "toeicLink": "View TOEIC Certificate",
+      "androidLink": "View Android Development Certificate",
+      "javaLink": "View Java OOP Certificate",
+      "cryptoLink": "View Cryptocurrency Certificate",
+      "certificates": [
+        {
+          "date": "July 2022",
+          "certificate": "TOEIC - ETS",
+          "description": "Score 825 points ~ Level B2"
+        },
+        {
+          "date": "November 2019",
+          "certificate": "Learn Android Application Development - Udemy"
+        },
+        {
+          "date": "April 2019",
+          "certificate": "Object Oriented Programming (OOPs) for JAVA - Udemy"
+        },
+        {
+          "date": "August 2021",
+          "certificate": "Crypto Currency - Udemy"
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "description": "With these skills and experiences, I am ready to take on new challenges in innovative and complex projects, where I can leverage my deep knowledge in React and Java, and my passion for software development."
+    }
   },
   "projects": {
     "title": "Completed Projects",
