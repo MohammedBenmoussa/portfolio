@@ -9,51 +9,48 @@
   },
   "about": {
     "title": "Dossier de Compétences de Mohammed Benmoussa",
+    "downloadResume": "Télécharger le CV",
     "professionalProfile": {
       "title": "Profil Professionnel",
-      "description": "Ingénieur logiciel passionné par le développement front-end avec React et back-end en Java (versions 8, 11, 17, 21), doté d'une solide expérience dans la création de solutions numériques innovantes. Ayant travaillé sur des projets complexes, de la conception au déploiement, avec une maîtrise des technologies modernes, des pratiques de développement agile, et une capacité éprouvée à résoudre des problèmes techniques de haut niveau."
+      "description": "Ingénieur logiciel passionné par le développement front-end avec React et back-end en Java..."
     },
     "technicalSkills": {
       "title": "Compétences Techniques",
       "frontEndDevelopment": {
-        "title": "Développement Front-End :",
+        "title": "Développement Front-End",
         "skills": [
-          "Expertise en React (v18) : Développement d'interfaces utilisateur dynamiques et réactives.",
-          "Maîtrise des composants fonctionnels, des hooks, de la gestion de l'état avec Redux et des tests avec React Testing Library.",
-          "Intégration d'API REST et de services web avec Axios et Fetch.",
-          "Utilisation de TypeScript pour le typage statique et une meilleure qualité de code."
+          "Expertise en React (v18): Développement d'interfaces utilisateur dynamiques et réactives.",
+          "Maîtrise des composants fonctionnels, des hooks, de la gestion de l'état avec Redux et des tests avec React Testing Library."
         ]
       },
       "backEndDevelopment": {
-        "title": "Développement Back-End :",
+        "title": "Développement Back-End",
         "skills": [
-          "Compétences solides en Java (v8, 11, 17, 21) : Développement d'applications robustes et évolutives.",
-          "Expérience avec Spring Boot pour la création de microservices, gestion des données avec Spring Data JPA, et sécurisation avec Spring Security.",
-          "Familiarité avec les architectures RESTful et les bonnes pratiques de développement orienté objet (OOP).",
-          "Utilisation de frameworks tels que Hibernate pour la gestion des bases de données relationnelles."
+          "Compétences solides en Java (v8, 11, 17, 21): Développement d'applications robustes et évolutives.",
+          "Expérience avec Spring Boot pour la création de microservices, gestion des données avec Spring Data JPA, et sécurisation avec Spring Security."
         ]
       },
       "developmentTools": {
-        "title": "Outils de Développement :",
+        "title": "Outils de Développement",
         "skills": [
           "IntelliJ IDEA, Maven, Gradle, Git, Jenkins pour l'intégration et le déploiement continus (CI/CD).",
           "Utilisation de Postman pour le test des API REST et de Docker pour la containerisation des applications."
         ]
       },
       "databases": {
-        "title": "Base de Données :",
+        "title": "Bases de Données",
         "skills": [
           "Maîtrise des systèmes de gestion de base de données Oracle PL/SQL, MySQL, SQL Server.",
           "Expérience avec les bases de données NoSQL comme MongoDB et Redis."
         ]
       },
       "otherSkills": {
-        "title": "Autres Compétences :",
+        "title": "Autres Compétences",
         "skills": [
-          "Modélisation : UML, Merise.",
-          "Développement Mobile : Android.",
-          "Gestion de Projet et Méthodologies Agiles : Scrum, Trello.",
-          "Cloud Computing : AWS (EC2, S3, SQS)."
+          "Modélisation: UML, Merise.",
+          "Développement Mobile: Android.",
+          "Gestion de Projet et Méthodologies Agiles: Scrum, Trello.",
+          "Cloud Computing: AWS (EC2, S3, SQS)."
         ]
       }
     },
@@ -84,11 +81,6 @@
           "date": "Mars - Mai 2020",
           "title": "Application Web E-News",
           "description": "Développement d'une application d'actualités en ligne avec React pour le front-end et Java (Spring, Hibernate) pour le back-end."
-        },
-        {
-          "date": "Février - Avril 2020",
-          "title": "Infrastructure de Développement",
-          "description": "Configuration d'une infrastructure de développement avec des solutions open source (LDAP, DNS, GitLab, OwnCloud). Utilisation de Java pour l'automatisation de tâches et de scripts."
         }
       ]
     },
@@ -98,26 +90,17 @@
         {
           "date": "2020 - 2022",
           "degree": "Diplôme d'Ingénieur Généraliste en Numérique - Télécom Saint-Étienne, France",
-          "option": "Option : Big Data"
+          "option": "Option: Big Data"
         },
         {
           "date": "2018 - 2020",
           "degree": "Diplôme d'Ingénieur d'État en Ingénierie Web - ENSIAS, Rabat, Maroc",
-          "option": "Option : Ingénierie Web et Informatique Mobile"
-        },
-        {
-          "date": "2016 - 2018",
-          "degree": "Classe Préparatoire aux Grandes Écoles - Pythagore, Oujda, Maroc",
-          "option": "Option : Mathématiques-Physique (MP)"
+          "option": "Option: Ingénierie Web et Informatique Mobile"
         }
       ]
     },
     "certifications": {
       "title": "Certifications",
-      "toeicLink": "Voir le certificat TOEIC",
-      "androidLink": "Voir le certificat de Développement Android",
-      "javaLink": "Voir le certificat Java OOP",
-      "cryptoLink": "Voir le certificat de Cryptomonnaie",
       "certificates": [
         {
           "date": "Juillet 2022",
@@ -127,20 +110,12 @@
         {
           "date": "Novembre 2019",
           "certificate": "Learn Android Application Development - Udemy"
-        },
-        {
-          "date": "Avril 2019",
-          "certificate": "Object Oriented Programming (OOPs) for JAVA - Udemy"
-        },
-        {
-          "date": "Août 2021",
-          "certificate": "Crypto Currency - Udemy"
         }
       ]
     },
     "conclusion": {
       "title": "Conclusion",
-      "description": "Fort de ces compétences et expériences, je suis prêt à relever de nouveaux défis dans des projets innovants et complexes, où je pourrai mettre à profit mes connaissances approfondies en React et Java, et ma passion pour le développement logiciel."
+      "description": "Fort de ces compétences et expériences, je suis prêt à relever de nouveaux défis dans des projets innovants et complexes..."
     }
   },
   "projects": {
